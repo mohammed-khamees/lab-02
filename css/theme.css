@@ -1,0 +1,42 @@
+/* header */
+header {
+	background-color: #faf3e0;
+	font-family: 'Reggae One', cursive;
+	font-size: 1.3rem;
+}
+
+/* end of header */
+
+/* main */
+
+#photo-template {
+	border: 1px solid #91091e;
+	border-radius: 1rem;
+	background-color: #b68973;
+	color: #faf3e0;
+}
+
+.title {
+	font-size: 1.2rem;
+}
+
+.img {
+	border: 1px solid #9fb8ad;
+	border-radius: 1rem;
+}
+
+.desc {
+	font-family: 'Truculenta', sans-serif;
+}
+
+/* end of main */
+
+/* footer */
+
+footer {
+	font-family: 'Reggae One', cursive;
+	background-color: #1e212d;
+	color: #faf3e0;
+}
+
+/* end of footer */
