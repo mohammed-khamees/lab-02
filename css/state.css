@@ -1,0 +1,15 @@
+/* main */
+.btn1:hover {
+	cursor: pointer;
+	background-color: transparent;
+	border: 1px solid #91091e;
+	color: #1e212d;
+}
+
+.btn2:hover {
+	cursor: pointer;
+	background-color: transparent;
+	border: 1px solid #91091e;
+	color: #1e212d;
+}
+/* end of main */
